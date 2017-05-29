@@ -1,0 +1,24 @@
+seb:
+ owner_name: Sebastien Saunier
+ picture: images/card-paris.jpg
+ owner_picture: images/seb.jpg
+ name: Seb’s home
+ summary: Charming room in Montmartre
+ city: Paris, France
+ wifi: true
+anne:
+ owner_name: Anne Blabla
+ picture: images/card-brussels.jpeg
+ owner_picture: images/anne.jpg
+ name: Anne’s home
+ summary: Charming room in Brussels
+ city: Brussels, Belgium
+ wifi: true
+romain:
+ owner_name: Romain Blublu
+ picture: images/card-london.jpeg
+ owner_picture: images/romain.jpg
+ name: Romain’s home
+ summary: Charming room in London
+ city: London, UK
+ wifi: false
