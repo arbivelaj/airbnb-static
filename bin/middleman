@@ -4,7 +4,7 @@
 #
 # The application 'middleman' is installed as part of a gem, and
 # this file is here to facilitate running it.
-#
+# cbhbcibsb
 
 require 'pathname'
 ENV['BUNDLE_GEMFILE'] ||= File.expand_path("../../Gemfile",
